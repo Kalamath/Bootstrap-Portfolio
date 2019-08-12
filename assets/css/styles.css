@@ -20,14 +20,14 @@ body.home {
 }
 
 .myPhoto {
-  border-radius: 10px;
+  /* border-radius: 10px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-size: 15px; */
 }
 
 .myPhoto img {
-  border: 10px solid black;
-  border-radius: 50%;
+  /* border: 10px solid black; */
+  /* border-radius: 50%; */
   width: 100%;
   height: auto;
 }
