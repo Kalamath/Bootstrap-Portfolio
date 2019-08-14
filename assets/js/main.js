@@ -1,3 +1,3 @@
-$('#carouselExampleIndicators').carousel({
-    interval: 2000
-  })
+// $('#carouselExampleIndicators').carousel({
+//     interval: 2000
+//   })
